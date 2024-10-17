@@ -5,5 +5,7 @@ If we go step by step, we will first start with analysing the data, making sure 
 We will then proceed with the feature engineering a strat with the regression models we try a few types of models such as  Multilinear Regression, Polynominal Regression, Ridge Regression, Ridge CV and Lasso CV.
 You will be able to see why we chose the Lasso CV regression model for our project.
 
+For this project, we worked with a dataset containing rental prices for units in across Canada in 2024, from rentfaster.ca.
+
 This project is in the collaboration of Marjorie Falcon and Fabiha Chowdhury for the Concordia University Bootcamp.
 Thank you enjoy!!
